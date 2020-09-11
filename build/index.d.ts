@@ -1,1 +1,2 @@
-export { sum } from './sum';
+import MyComponent from './components/MyComponent';
+export { MyComponent };
